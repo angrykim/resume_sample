@@ -1,3 +1,3 @@
-# sample
+# Project THEMIS sample
 Themis - Risk control dashboard for crypto trades and mobile payment 
-![screenshot_20171221-151714](a.gif)
+![screenshot_20171221-151714](a.gif, width="90%")
